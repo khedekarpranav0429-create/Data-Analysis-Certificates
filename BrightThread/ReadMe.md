@@ -42,7 +42,7 @@ Created charts and visualizations to communicate important findings and make pat
 Created an interactive Tableau dashboard to present the key findings from the analysis.
 
 **Tableau Public Dashboard:**  
-[View Dashboard](ADD_YOUR_TABLEAU_LINK_HERE)
+[View Dashboard](https://public.tableau.com/views/RetailSalesDashboard_17925002627880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 
